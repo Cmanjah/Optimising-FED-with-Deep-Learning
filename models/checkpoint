@@ -1,0 +1,2 @@
+model_checkpoint_path: "fedav_best_model-EfficientNetB3.ckpt"
+all_model_checkpoint_paths: "fedav_best_model-EfficientNetB3.ckpt"
