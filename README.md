@@ -17,7 +17,7 @@
                  text-decoration: none;
                  font-weight: bold;"          
             >
-        Optimizing Facial Emotion Detection with Deep Learning </a>
+        Optimising Facial Emotion Detection in Semi-Autonomous Vehicles with Deep Learning </a>
     </h1>
 </div>
 
