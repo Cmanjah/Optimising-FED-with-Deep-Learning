@@ -7,17 +7,7 @@
                  color: #f8e7b5;
                  font-size: 35px;
                  font-family: Cambria;
-                 font-weight: bold;">&#8759;
-        <a class="anchor-link" 
-            id="title" href="https://www.kaggle.com/code/charlesanjah/keratoconus-eye-disease-detection-using-cnn#title"
-            style = "padding: 18px; 
-                 color: #f8e7b5;
-                 font-size: 35px;
-                 font-family: Cambria;
-                 text-decoration: none;
-                 font-weight: bold;"          
-            >
-        Optimising Facial Emotion Detection in Semi-Autonomous Vehicles with Deep Learning </a>
+                 font-weight: bold;">&#8759;  Optimising Facial Emotion Detection for Safe Driving in Semi-Autonomous Vehicles Using Deep Learning 
     </h1>
 </div>
 
@@ -25,4 +15,4 @@
 
 
 
-Improving the performance metrics of the facial emotion detection using deep learning
+Optimising Facial Emotion Detection for Safe Driving in Semi-Autonomous Vehicles Using Deep Learning
